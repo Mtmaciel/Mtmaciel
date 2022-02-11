@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello there 👋
+- 🔭 I’m currently working as full stack developer
+- 📚 I'm a student of analysis and systems development
+- 🎲 My favorites hoobs are Play TTRpg and listen music
 <!--
 **Mtmaciel/Mtmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
